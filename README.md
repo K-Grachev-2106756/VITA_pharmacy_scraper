@@ -13,8 +13,8 @@ As an example, I have uploaded some .json files which are full of information ab
 - active substance
 
 Firstly install these libs :
-- -bs4
-- -selenium
-- -json
+- - bs4
+- - selenium
+- - json
 
 If you run the script, you will have a lot of such files! (But you will have to wait about 75 minutes, because of scrolling page script part)
