@@ -2,9 +2,9 @@
 
 
 
-As a training, I decided to get ALL the data about ALL the products from the site "https://vitaexpress.ru/". 
+As a training, I decided to get ALL the data about ALL the products from the site https://vitaexpress.ru/. 
 
-As an example, I have uploaded some .json files which are full of information about: 
+I have uploaded some .json files for you to check the results which are full of information about: 
 - product_name
 - product_url
 - product_brand
@@ -17,4 +17,4 @@ Firstly install these libs :
 - - selenium
 - - json
 
-If you run the script, you will have a lot of such files! (But you will have to wait about 75 minutes, because of scrolling page script part)
+If you run the script, you will have a lot of such files! (But you will need to wait about 75 minutes, because of scrolling page script part)
