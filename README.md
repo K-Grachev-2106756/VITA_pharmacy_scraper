@@ -10,7 +10,7 @@ I have uploaded some .json files for you to check the results which are full of 
 - product_brand
 - product_categories
 - product_price
-- active substance
+- active_substance
 
 Firstly install these libs :
 - - bs4
